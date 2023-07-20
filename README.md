@@ -1,6 +1,6 @@
 <div align="center">
 	<h1> Gabriel Nascimento </h1>
-	<p>Born in Florianópolis 🇧🇷 and raised in Atlanta. 🇺🇸</p>
+	<p>Born in Florianópolis 🇧🇷 and raised in Atlanta 🇺🇸</p>
 	<p>Aspiring Software Engineer & Information Systems grad student at <strong>UFSC</strong>,<br> <strong>ranked the <a href="https://sinter.ufsc.br/2022/07/14/ufsc-e-ranqueada-como-6a-melhor-universidade-no-latin-america-university-rankings-2022/?lang=en">2nd best university in Brazil</a> by Times Higher Education.</strong></p>
 </div>
 <table align="center">
