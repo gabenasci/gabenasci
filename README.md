@@ -1,6 +1,6 @@
 <div align="center">
 	<h1> Gabriel Nascimento </h1>
-	📍: Florianópolis, SC - Brazil
+	📍 Florianópolis, SC - Brazil
 	<br/>
 	<br/>
 	<p>Aspiring Software Engineer & Information Systems grad student at UFSC</p>
