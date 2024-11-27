@@ -1,7 +1,7 @@
 <div align="center">
 	<h1> Gabriel Nascimento </h1>
 	<p>Born in Florianópolis 🇧🇷 and raised in Atlanta 🇺🇸</p>
-	<p>Software Engineer and Information Systems B.Sc. at <strong>UFSC</strong>, which is ranked <br>as the <strong><a href="https://sinter.ufsc.br/2022/07/14/ufsc-e-ranqueada-como-6a-melhor-universidade-no-latin-america-university-rankings-2022/?lang=en">6th best university in Latin America</a> by Times Higher Education.</strong></p>
+	<p>Software Engineer and Information Systems B.Sc. at <strong>UFSC</strong>, ranked as the <br><strong><a href="https://sinter.ufsc.br/2022/07/14/ufsc-e-ranqueada-como-6a-melhor-universidade-no-latin-america-university-rankings-2022/?lang=en">6th best university in Latin America</a> by Times Higher Education.</strong></p>
 <p>Experienced in full stack web and mobile applications, object oriented systems and data science.</p>
 </div>
 <table align="center">
